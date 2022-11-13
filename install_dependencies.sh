@@ -1,0 +1,1 @@
+pip3 install -r lambda-extensions/extensions/python_splunk_telemetry_api_extension/requirements.txt -t lambda-extensions/extensions/python_splunk_telemetry_api_extension/
